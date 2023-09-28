@@ -9,7 +9,7 @@ Welcome to the official repository of SCADE, your gateway to seamless cross-plat
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Issues](#issues)
+- [Issues](##issues)
 - [Community](#community)
 
 ## Introduction 📝
