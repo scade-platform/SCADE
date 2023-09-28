@@ -2,7 +2,7 @@
 # [SCADE](https://scade.io): Cross-Platform Swift App Development 
 ![SCADE](https://www.scade.io/wp-content/uploads/2021/08/SCD_Auora1-1-1.png)
 
-Welcome to the official repository of SCADE, your gateway to seamless cross-platform app development with Swift. With SCADE, you can write your code in Swift and effortlessly deploy it to Apple, Android, and web environments. It's more than just a Swift editor; it's a powerful tool that enables you to create stunning applications for both iOS and Android with ease. 📱💻🌐
+Welcome to the official repository of SCADE, your gateway to seamless cross-platform app development with Swift. With SCADE, you can write your code in Swift and effortlessly deploy it to Apple, Android, and web (in progress) environments. It's more than just a Swift editor; it's a powerful tool that enables you to create stunning applications for both iOS and Android with ease. 📱💻🌐
 
 ## Table of Contents 📋
 - [Introduction](#introduction)
