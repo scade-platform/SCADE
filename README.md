@@ -40,8 +40,6 @@ Here are some of the key features that make SCADE stand out:
 
 - **Intuitive Development Environment:** SCADE provides a user-friendly IDE that streamlines the development process and enhances productivity.
 
-- **Open-Source:** SCADE is open-source, which means you can contribute to its development and shape the future of cross-platform Swift development. 🌟
-
 ## Contributing
 
 We welcome contributions from the community! If you're passionate about Swift development and cross-platform apps, consider contributing to SCADE. You can contribute by:
@@ -50,8 +48,6 @@ We welcome contributions from the community! If you're passionate about Swift de
 - Enhancing documentation 📖
 - Submitting pull requests 🛠️
 - Sharing your experiences and insights 💡
-
-Please review our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
 ## Issues
 
