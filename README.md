@@ -12,11 +12,11 @@ Welcome to the official repository of SCADE, your gateway to seamless cross-plat
 - [Issues](#issues)
 - [Community](#community)
 
-## Introduction 📝
+## Introduction
 
 SCADE is designed to empower the Swift community, allowing developers to harness the expressive power of Swift and extend it to a variety of platforms. Whether you're a seasoned Swift developer or just getting started, SCADE simplifies the app development process, reducing the time and effort required to create native-quality applications for different platforms. 🧑‍💻🚀
 
-## Getting Started 🚀
+## Getting Started
 
 To get started with SCADE, follow these simple steps:
 
@@ -28,7 +28,7 @@ To get started with SCADE, follow these simple steps:
 
 4. **Start Building:** Dive into the world of [cross-platform app development](https://github.com/scadedoc/UgExamples) with Swift using SCADE. Create your projects, write code, and enjoy the flexibility of deploying to multiple platforms. 🚀
 
-## Features ✨
+## Features
 
 Here are some of the key features that make SCADE stand out:
 
@@ -42,7 +42,7 @@ Here are some of the key features that make SCADE stand out:
 
 - **Open-Source:** SCADE is open-source, which means you can contribute to its development and shape the future of cross-platform Swift development. 🌟
 
-## Contributing 🤝
+## Contributing
 
 We welcome contributions from the community! If you're passionate about Swift development and cross-platform apps, consider contributing to SCADE. You can contribute by:
 
@@ -57,7 +57,7 @@ Please review our [Contributing Guidelines](CONTRIBUTING.md) for more informatio
 
 If you encounter any issues while using SCADE, please feel free to [create a new issue](https://github.com/scade-platform/SCADE/issues). We highly value your feedback and will work together to address any problems you encounter. 🛠️
 
-## Community 🌐
+## Community
 
 Join our growing community of Swift developers who use SCADE for cross-platform app development. You can connect with us at:
 
@@ -69,5 +69,3 @@ Join our growing community of Swift developers who use SCADE for cross-platform 
 
 Thank you for choosing SCADE as your cross-platform Swift app development tool. We look forward to seeing the amazing applications you create! 🙌
 
-
-Please replace `"your-username"` with your actual GitHub username where necessary.
