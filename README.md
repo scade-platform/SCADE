@@ -9,7 +9,7 @@ Welcome to the official repository of SCADE, your gateway to seamless cross-plat
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Issues](##issues)
+- [Issues](#issues)
 - [Community](#community)
 
 ## Introduction 📝
@@ -20,11 +20,7 @@ SCADE is designed to empower the Swift community, allowing developers to harness
 
 To get started with SCADE, follow these simple steps:
 
-1. **Clone the Repository:** Begin by cloning this repository to your local machine using Git:
-
-   ```bash
-   git clone https://github.com/your-username/SCADE.git
-   ```
+1. **Download SCADE IDE:** Begin by downloading & installing the [SCADE IDE](https://www.scade.io/download/) into your macOS system.
 
 2. **Explore the Documentation:** Check out the extensive documentation provided in the repository's [Wiki](https://github.com/your-username/SCADE/wiki) for detailed information on how to use SCADE effectively.
 
@@ -57,7 +53,7 @@ We welcome contributions from the community! If you're passionate about Swift de
 
 Please review our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
 
-## Issues 🙋‍♂️🙋‍♀️
+## Issues
 
 If you encounter any issues while using SCADE, please feel free to [create a new issue](https://github.com/scade-platform/SCADE/issues). We highly value your feedback and will work together to address any problems you encounter. 🛠️
 
