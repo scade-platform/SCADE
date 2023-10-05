@@ -39,6 +39,7 @@ Here are some of the key features that make SCADE stand out:
 - **Rich Library of Widgets:** Take advantage of a comprehensive set of widgets and components to build modern, feature-rich applications.
 
 - **Intuitive Development Environment:** SCADE provides a user-friendly IDE that streamlines the development process and enhances productivity.
+- **Open-Source Nimble Editor:** SCADE provides an open-source [Nimble](https://github.com/scade-platform/Nimble) editor, a document-based Cocoa application written in Swift. 
 
 ## Contributing
 
