@@ -55,7 +55,7 @@ Contribute to Nimble: https://github.com/scade-platform/Nimble
 
 **Discover Fusion: Linking iOS and Android Made Easy**
 
-Fusion, a new set of libraries from the SCADE team, makes it simple for iOS developers to use their Swift code to create Android apps without needing to learn Java/Kotlin or the Android SDK. Fusion also makes it easy to connect with Android features, so you don't have to worry about complex setup tasks. Even iOS-specific settings are straightforward, with no extra requirements. Right now, Fusion includes easy-to-use features for things like location, Bluetooth, NFC, and media playback, and we're working on more Fusion libraries to help you do even more.
+Fusion, a new set of Swift SPM libraries from the SCADE team, makes it simple for iOS developers to use their Swift code to create Android apps without needing to learn Java/Kotlin or the Android SDK. Fusion also makes it easy to connect with Android features, so you don't have to worry about complex setup tasks. Even iOS-specific settings are straightforward, with no extra requirements. Right now, Fusion includes easy-to-use features for things like location, Bluetooth, NFC, and media playback, and we're working on more Fusion libraries to help you do even more.
 
 Contribute to Fusion: https://github.com/scade-platform/Fusion 
 
