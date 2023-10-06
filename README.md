@@ -8,6 +8,8 @@ Welcome to the official repository of SCADE, your gateway to seamless cross-plat
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Features](#features)
+- [Nimble](#nimble)
+- [Fusion](#fusion)
 - [Contributing](#contributing)
 - [Issues](#issues)
 - [Community](#community)
@@ -40,6 +42,22 @@ Here are some of the key features that make SCADE stand out:
 
 - **Intuitive Development Environment:** SCADE provides a user-friendly IDE that streamlines the development process and enhances productivity.
 - **Open-Source Nimble Editor:** SCADE provides an open-source [Nimble](https://github.com/scade-platform/Nimble) editor, a document-based Cocoa application written in Swift. 
+
+## Nimble
+
+**Welcome to Nimble: Your Swift Code Editor**
+
+Nimble is an open-source, document-based Cocoa application written in Swift, designed to empower developers in building Swift applications, both client and server-side. This versatile code editor provides a solid foundation for your coding projects, offering customization options to tailor it to your specific needs. Whether you're a seasoned Swift developer or just starting your coding journey, Nimble is here to streamline your Swift app development experience. Dive in, explore, and start crafting your Swift creations with Nimble today!
+
+Contribute to Nimble: https://github.com/scade-platform/Nimble 
+
+## Fusion
+
+**Discover Fusion: Linking iOS and Android Made Easy**
+
+Fusion, a new set of libraries from the SCADE team, makes it simple for iOS developers to use their Swift code to create Android apps without needing to learn Java/Kotlin or the Android SDK. Fusion also makes it easy to connect with Android features, so you don't have to worry about complex setup tasks. Even iOS-specific settings are straightforward, with no extra requirements. Right now, Fusion includes easy-to-use features for things like location, Bluetooth, NFC, and media playback, and we're working on more Fusion libraries to help you do even more.
+
+Contribute to Fusion: https://github.com/scade-platform/Fusion 
 
 ## Contributing
 
