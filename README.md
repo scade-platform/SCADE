@@ -77,7 +77,7 @@ If you encounter any issues while using SCADE, please feel free to [create a new
 Join our growing community of Swift developers who use SCADE for cross-platform app development. You can connect with us at:
 
 - [GitHub Discussions](https://github.com/scade-platform/scade/discussions): Engage in conversations, ask questions, and share your knowledge.
-- [Slack Discussions](https://github.com/scade-platform/scade/discussions): Join SCADE's slack channel and engage in conversations.
+- [Discord Discussions](https://discord.gg/vRUpqtXj): Join SCADE's discord channel and engage in conversations.
 - [Twitter](https://twitter.com/scade_platform): Follow us on Twitter for the latest updates and news about SCADE.
 - [LinkedIn](https://www.linkedin.com/company/89203992/admin/feed/posts/): Follow us on LinkedIn for the latest updates and news about SCADE.
 - [Facebook](https://www.facebook.com/SwiftForAndroidAndiOS): Follow us on Facebook for the latest updates and news about SCADE.
